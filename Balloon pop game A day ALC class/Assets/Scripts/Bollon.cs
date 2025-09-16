@@ -1,14 +1,14 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
-public class Ballon : MonoBehaviour
+public class Balloon : MonoBehaviour
 {
     public int clickToPop = 3; //How many clicks before balloon pops
-
     public float scaleToIncrease = 0.10f; //Scale to increase each time balloon is clicked
     public int scoreToGive; //Score given for the popped balloon.
-
-    private ScoreManager scoreManager; //A variable to refrence the ScoreManger
-    public GameObject popEffect //Reference Pop Effect Particle System
+    private ScoreManager ScoreManager; //A variable to refrence the ScoreManger
+    public GameObject popEffect; //Reference Pop Effect Particle System
 
     //Start is called before the first frame update
     void Start()
@@ -25,7 +25,9 @@ public class Ballon : MonoBehaviour
 
         if (clickToPop == 0)
         {
-            //scoreManager.IncreaseScoreText(scoreToGiveGive)
+            //scoreManager.IncreaseScoreText(scoreToGiveGive);
+            Instantiate(popEffect, transform.position, transform.rotation);
+            Destroy(gameObject);
         }
     }
 }
