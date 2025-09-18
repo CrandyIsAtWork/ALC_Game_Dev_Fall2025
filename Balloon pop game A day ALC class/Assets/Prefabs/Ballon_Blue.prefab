@@ -269,6 +269,8 @@ GameObject:
   - component: {fileID: 8623211753102106342}
   - component: {fileID: 2781626939887597325}
   - component: {fileID: 8701254248672893363}
+  - component: {fileID: -486030212546525570}
+  - component: {fileID: -300086590335690538}
   m_Layer: 0
   m_Name: Ballon_Blue
   m_TagString: Untagged
@@ -344,3 +346,35 @@ Rigidbody:
   m_Interpolate: 1
   m_Constraints: 0
   m_CollisionDetection: 1
+--- !u!114 &-486030212546525570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3740349033569436812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 189dc075b2601dc4f8a084a381ca8975, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 1
+  upperBound: 15
+  scoreManager: {fileID: 0}
+  balloon: {fileID: 0}
+--- !u!114 &-300086590335690538
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3740349033569436812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6fafa74d8d577e45a3a2fd189e2f893, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clickToPop: 3
+  scaleToIncrease: 0.1
+  scoreToGive: 0
+  popEffect: {fileID: 0}
