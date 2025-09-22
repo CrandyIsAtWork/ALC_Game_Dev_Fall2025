@@ -360,7 +360,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   clickToPop: 3
   scaleToIncrease: 0.1
-  scoreToGive: 0
+  scoreToGive: 25
   popEffect: {fileID: 0}
 --- !u!114 &381077797910204303
 MonoBehaviour:

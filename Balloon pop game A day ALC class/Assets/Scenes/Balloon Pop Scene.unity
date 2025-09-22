@@ -285,7 +285,7 @@ Transform:
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalPosition: {x: 0, y: 8.8, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -827,10 +827,11 @@ MonoBehaviour:
   - {fileID: 4129643701921113943, guid: 6330c529e874e604e83394c27f6d1e63, type: 3}
   balloonIndex: 0
   xSpawnRange: 0
-  ySpawnPos: 0
+  ySpawnPos: -90
   startDelay: 0.5
   spawnInterval: 1.5
   xRange: 10
+  yPos: -10
 --- !u!4 &1640442103
 Transform:
   m_ObjectHideFlags: 0
@@ -927,7 +928,7 @@ Transform:
   m_GameObject: {fileID: 1798259341}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.2002, y: -10.5, z: 129.8}
+  m_LocalPosition: {x: 7.2002, y: -2.6999998, z: 129.8}
   m_LocalScale: {x: 33.64371, y: 30.636992, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
