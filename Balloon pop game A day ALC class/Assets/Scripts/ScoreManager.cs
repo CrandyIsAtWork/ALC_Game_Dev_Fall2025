@@ -5,8 +5,10 @@ using TMPro;
 
 public class ScoreManager : MonoBehaviour
 {
+
     public int score;
     public TextMeshProUGUI scoreText;
+
 
     //Start is called before the first frame update
     void Start()
@@ -19,13 +21,11 @@ public class ScoreManager : MonoBehaviour
         score += amount;
         UpdateScoreText();
     }
-
     public void DecreaseScoreText(int amount)
     {
         score -= amount;
         UpdateScoreText();
     }
-
     public void UpdateScoreText()
     {
         scoreText.text = "Score: " + score;

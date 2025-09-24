@@ -291,7 +291,7 @@ MonoBehaviour:
   clickToPop: 3
   scaleToIncrease: 0.1
   scoreToGive: 25
-  popEffect: {fileID: 0}
+  popEffect: {fileID: 5259179334366192977, guid: bd8ac4ca051766d448600af71f482b98, type: 3}
 --- !u!1 &7887643544705738028
 GameObject:
   m_ObjectHideFlags: 0

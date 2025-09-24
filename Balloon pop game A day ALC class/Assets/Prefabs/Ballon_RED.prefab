@@ -186,7 +186,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 189dc075b2601dc4f8a084a381ca8975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 1
+  moveSpeed: 7
   upperBound: 15
   scoreManager: {fileID: 0}
   balloon: {fileID: 0}
@@ -202,10 +202,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6fafa74d8d577e45a3a2fd189e2f893, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clickToPop: 3
+  clickToPop: 2
   scaleToIncrease: 0.1
   scoreToGive: 25
-  popEffect: {fileID: 0}
+  popEffect: {fileID: 5259179334366192977, guid: bd8ac4ca051766d448600af71f482b98, type: 3}
 --- !u!1 &3135105078531183743
 GameObject:
   m_ObjectHideFlags: 0
