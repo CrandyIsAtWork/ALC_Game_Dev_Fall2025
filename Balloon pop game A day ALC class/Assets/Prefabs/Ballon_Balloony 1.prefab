@@ -358,9 +358,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6fafa74d8d577e45a3a2fd189e2f893, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clickToPop: 50
+  clickToPop: 25
   scaleToIncrease: 0.1
-  scoreToGive: 25
+  scoreToGive: 30
   popEffect: {fileID: 5259179334366192977, guid: bd8ac4ca051766d448600af71f482b98, type: 3}
 --- !u!114 &381077797910204303
 MonoBehaviour:
