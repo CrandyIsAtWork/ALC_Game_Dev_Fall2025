@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 1fd05c62039c5d04691a8fcc4cda5880
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7672413470532525182
+    second: ManInDaHod_0
+  - first:
+      213: 1896574841756319400
+    second: ManInDaHod_1
+  - first:
+      213: 6885896794146196873
+    second: ManInDaHod_2
+  - first:
+      213: 5111126259811266154
+    second: ManInDaHod_3
+  - first:
+      213: 9078245980573341382
+    second: ManInDaHod_4
+  - first:
+      213: 5327404075555340862
+    second: ManInDaHod_5
+  - first:
+      213: 964951043657321105
+    second: ManInDaHod_6
+  - first:
+      213: 6499284692755959091
+    second: ManInDaHod_7
+  - first:
+      213: 6028524083231782649
+    second: ManInDaHod_8
+  - first:
+      213: -6630614954648379781
+    second: ManInDaHod_9
+  - first:
+      213: -6361995533388074277
+    second: ManInDaHod_10
+  - first:
+      213: -2265995704281962481
+    second: ManInDaHod_11
+  - first:
+      213: 1161409106387718227
+    second: ManInDaHod_12
+  - first:
+      213: 1821195466932810331
+    second: ManInDaHod_13
+  - first:
+      213: 388591130446982343
+    second: ManInDaHod_14
+  - first:
+      213: -5759551491006572878
+    second: ManInDaHod_15
+  - first:
+      213: 6674545919576540689
+    second: ManInDaHod_16
+  - first:
+      213: -3239877905843619173
+    second: ManInDaHod_17
+  - first:
+      213: -4815474358223156998
+    second: ManInDaHod_18
+  - first:
+      213: -3299006654343523645
+    second: ManInDaHod_19
+  - first:
+      213: 6844948612843386024
+    second: ManInDaHod_20
+  - first:
+      213: -5846957698735973682
+    second: ManInDaHod_21
+  - first:
+      213: -9013390178767927131
+    second: ManInDaHod_22
+  - first:
+      213: 2934617175421783671
+    second: ManInDaHod_23
+  - first:
+      213: 2116154698976576475
+    second: ManInDaHod_24
+  - first:
+      213: 2093654723639238047
+    second: ManInDaHod_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ManInDaHod_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 422
+        width: 23
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283acf6499c168590800000000000000
+      internalID: -7672413470532525182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 470
+        width: 68
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aef3d425ccf15a10800000000000000
+      internalID: 1896574841756319400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 422
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dc517b6ae9f8f50800000000000000
+      internalID: 6885896794146196873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 422
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ea83ed04e5ee640800000000000000
+      internalID: 5111126259811266154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_4
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 422
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c611b7ee986cfd70800000000000000
+      internalID: 9078245980573341382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 422
+        width: 68
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32c17ae7cdbee940800000000000000
+      internalID: 5327404075555340862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 422
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a46d69cd1346d00800000000000000
+      internalID: 964951043657321105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 323
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d4add4ef8123a50800000000000000
+      internalID: 6499284692755959091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 323
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6fae496be99a350800000000000000
+      internalID: 6028524083231782649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 323
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e5ac944d25bf3a0800000000000000
+      internalID: -6630614954648379781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 323
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd238c905c6a5b7a0800000000000000
+      internalID: -6361995533388074277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 311
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0866b7a9e09d80e0800000000000000
+      internalID: -2265995704281962481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 311
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350d429cd672e1010800000000000000
+      internalID: 1161409106387718227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 215
+        width: 80
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52f419c0af264910800000000000000
+      internalID: 1821195466932810331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 215
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cce825039d846500800000000000000
+      internalID: 388591130446982343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 215
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b65bf03f66f110b0800000000000000
+      internalID: -5759551491006572878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_16
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 215
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116846d8620c0ac50800000000000000
+      internalID: 6674545919576540689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_17
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 215
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9afd82d534a903d0800000000000000
+      internalID: -3239877905843619173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_18
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 215
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af84b1da59ffb2db0800000000000000
+      internalID: -4815474358223156998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 101
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c254304de29732d0800000000000000
+      internalID: -3299006654343523645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 101
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4355e4f742efe50800000000000000
+      internalID: 6844948612843386024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_21
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 101
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca5b1693fe6bdea0800000000000000
+      internalID: -5846957698735973682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_22
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 101
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a80b8c23610ae280800000000000000
+      internalID: -9013390178767927131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_23
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 101
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e86c4d5cad9b820800000000000000
+      internalID: 2934617175421783671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_24
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 101
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3c542ac771e5d10800000000000000
+      internalID: 2116154698976576475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManInDaHod_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 101
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9dd5d4e0e72e0d10800000000000000
+      internalID: 2093654723639238047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ManInDaHod_0: -7672413470532525182
+      ManInDaHod_1: 1896574841756319400
+      ManInDaHod_10: -6361995533388074277
+      ManInDaHod_11: -2265995704281962481
+      ManInDaHod_12: 1161409106387718227
+      ManInDaHod_13: 1821195466932810331
+      ManInDaHod_14: 388591130446982343
+      ManInDaHod_15: -5759551491006572878
+      ManInDaHod_16: 6674545919576540689
+      ManInDaHod_17: -3239877905843619173
+      ManInDaHod_18: -4815474358223156998
+      ManInDaHod_19: -3299006654343523645
+      ManInDaHod_2: 6885896794146196873
+      ManInDaHod_20: 6844948612843386024
+      ManInDaHod_21: -5846957698735973682
+      ManInDaHod_22: -9013390178767927131
+      ManInDaHod_23: 2934617175421783671
+      ManInDaHod_24: 2116154698976576475
+      ManInDaHod_25: 2093654723639238047
+      ManInDaHod_3: 5111126259811266154
+      ManInDaHod_4: 9078245980573341382
+      ManInDaHod_5: 5327404075555340862
+      ManInDaHod_6: 964951043657321105
+      ManInDaHod_7: 6499284692755959091
+      ManInDaHod_8: 6028524083231782649
+      ManInDaHod_9: -6630614954648379781
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
