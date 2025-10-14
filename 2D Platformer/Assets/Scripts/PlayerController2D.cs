@@ -10,7 +10,7 @@ public class PlayerController2D : MonoBehaviour
     [Header("Player Settings")]
     public float moveSpeed;
     public float jumpForce;
-    public float isGrounded;
+    public bool isGrounded;
     public float bottomBound;
     [Header("Score")]
     public int score;
@@ -41,7 +41,7 @@ public class PlayerController2D : MonoBehaviour
 
     void Update()
     {
-        
+
         if(Input.GetKeyDown(KeyCode.UpArrow) && isGrounded)
         {
             isGrounded = false;
