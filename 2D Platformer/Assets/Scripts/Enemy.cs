@@ -41,7 +41,12 @@ public class Enemy : MonoBehaviour
             }
         }
     }
-    
+
+    private void OriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Player"))
+    }
+
     private void OnDrawGizmos()
     {
         Vector3 from;
@@ -63,4 +68,5 @@ public class Enemy : MonoBehaviour
         Gizmos.DrawWireSphere(to, 0.2f);
         Gizmos.DrawWireSphere(from, 0.2f);
     }
+
 }
