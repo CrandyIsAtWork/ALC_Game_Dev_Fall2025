@@ -42,9 +42,12 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    private void OriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
+        {
+            collision.GetComponent<PlayerController2D>().GameOver();
+        }
     }
 
     private void OnDrawGizmos()

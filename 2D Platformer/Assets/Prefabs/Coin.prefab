@@ -28,8 +28,8 @@ Transform:
   m_GameObject: {fileID: 1647204614187571801}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.1, y: -3.29, z: 0}
-  m_LocalScale: {x: 0.3976, y: 0.3976, z: 0.3976}
+  m_LocalPosition: {x: -6.96, y: -3.1384, z: 0}
+  m_LocalScale: {x: 1.5642023, y: 1.5642023, z: 1.5642023}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -78,8 +78,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 1, g: 0.8214313, b: 0.1462264, a: 1}
+  m_Sprite: {fileID: -2510476293373519475, guid: bb0209a3b7611bc43a632cdd61f87e84, type: 3}
+  m_Color: {r: 1, g: 0.92136925, b: 0.6273585, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -124,7 +124,7 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 0.87
+  m_Radius: 0.17
 --- !u!114 &6591293466657997505
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -139,4 +139,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scoreToGive: 3
   bobHeight: 0.2
-  bobSpeed: 1
+  bobSpeed: 9
