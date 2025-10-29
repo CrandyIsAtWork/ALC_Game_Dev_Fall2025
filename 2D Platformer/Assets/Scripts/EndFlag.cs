@@ -9,7 +9,7 @@ public class EndFlag : MonoBehaviour
     public string nextLevelName;
 
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)// When something enters the trigger collider
     {
         if (collision.CompareTag("Player"))
         {
